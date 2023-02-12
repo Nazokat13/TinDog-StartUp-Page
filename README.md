@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog - a Responsive Page created using Bootstrap
